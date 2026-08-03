@@ -1,8 +1,8 @@
 {
-    "version":  "4.23.0.0",
-    "downloadUrl":  "REPLACE_WITH_DIRECT_URL_TO_GameVault_ERP_Update_v4.23.0.0.zip",
-    "sha256":  "C4590CFE9B3878B8940B56510C0DDE82FB0986B8C69F2043575F8ED91913E493",
-    "fileName":  "GameVault_ERP_Update_v4.23.0.0.zip",
-    "changelog":  "GameVault ERP 4.23.0.0\n- Xem ghi chÃº phÃ¡t hÃ nh trong README.txt.",
+    "version":  "4.24.0.0",
+    "downloadUrl":  "REPLACE_WITH_DIRECT_URL_TO_GameVault_ERP_Update_v4.24.0.0.zip",
+    "sha256":  "119AC0830F6D0873E3A6A555402E6A1CD723EB0305A1C820A0AD24C644BEA5AA",
+    "fileName":  "GameVault_ERP_Update_v4.24.0.0.zip",
+    "changelog":  "GameVault ERP 4.24.0.0\n- Xem ghi chÃº phÃ¡t hÃ nh trong README.txt.",
     "mandatory":  false
 }
