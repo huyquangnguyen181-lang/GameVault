@@ -1,8 +1,8 @@
 {
     "version":  "4.24.0.0",
-    "downloadUrl":  "REPLACE_WITH_DIRECT_URL_TO_GameVault_ERP_Update_v4.24.0.0.zip",
-    "sha256":  "119AC0830F6D0873E3A6A555402E6A1CD723EB0305A1C820A0AD24C644BEA5AA",
+    "downloadUrl":  "https://raw.githubusercontent.com/huyquangnguyen181-lang/GameVault/main/GameVault_ERP_Update_v4.24.0.0.zip",
+    "sha256":  "E64E808AC06EF6C431F4D5F607AEE9BCB0F82057C4E5FC7685CCD89DF196070E",
     "fileName":  "GameVault_ERP_Update_v4.24.0.0.zip",
-    "changelog":  "GameVault ERP 4.24.0.0\n- Xem ghi chÃº phÃ¡t hÃ nh trong README.txt.",
+    "changelog":  "GameVault ERP 4.24.0.0\n- Giao diá»‡n cáº¡nh tháº³ng, phá»‘i mÃ u tinh táº¿ vÃ  Ä‘á»“ng bá»™ hÆ¡n.\n- NhÃ³m Gmail lá»›n nháº¥t hiá»ƒn thá»‹ trong báº£ng cÃ³ ná»n tá»«ng dÃ²ng.\n- Giá»¯ nguyÃªn toÃ n bá»™ dá»¯ liá»‡u vÃ  nghiá»‡p vá»¥.",
     "mandatory":  false
 }
